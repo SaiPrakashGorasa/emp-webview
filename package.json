@@ -1,0 +1,18 @@
+{
+  "name": "emp-webview",
+  "version": "1.0.0",
+  "description": "Customised webview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/SaiPrakashGorasa/emp-webview.git)"
+  },
+  "keywords": [
+    "EMP-WebView"
+  ],
+  "author": "EMP",
+  "license": "ISC"
+}
