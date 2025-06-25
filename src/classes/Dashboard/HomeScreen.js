@@ -5,6 +5,7 @@ import styles from './styles';
 import { Colors } from '../../colors/Colors';
 import { useNavigation } from '@react-navigation/native';
 
+
 // create a component
 const HomeScreen = () => {
     const navigation=useNavigation()

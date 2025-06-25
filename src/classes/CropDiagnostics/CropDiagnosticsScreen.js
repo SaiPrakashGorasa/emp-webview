@@ -18,7 +18,7 @@ import ApiConfig, { STATUS_CODE_103, STATUS_CODE_SUCCESS_200 } from '../../Netwo
 import ApiService from '../../Networks/ApiService';
 import { isNullOrEmptyNOTTrim } from '../../Utility/Utils';
 import CustomDiagnosticsLoader from '../../components/CustomLoader';
-const CropDiagonstic = ({ route }) => {
+const CropDiagonstic = () => {
   const [loading, setLoading] = useState(false)
   const [cropLoading, setCropLoading] = useState(false)
   const [selectedFilter, setSelectedFilter] = useState(translate('Crop_Diagnostic'));
