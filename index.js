@@ -1,3 +1,3 @@
 // index.js
-import CropDiagnosis from './src/classes/CropDiagnostics/CropDiagnosticsScreen';
-export { CropDiagnosis };
+import CropDiagonstic from './src/classes/CropDiagnostics/CropDiagnosticsScreen';
+export { CropDiagonstic };
